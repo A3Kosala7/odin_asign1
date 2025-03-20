@@ -14,25 +14,25 @@
     color: white;
 }
 .links ul {
-    list-style: none; /* Removes bullet points */
-    display: flex; /* Makes the list items appear in a row */
-    gap: 20px; /* Adds spacing between links */
+    list-style: none; 
+    display: flex; 
+    gap: 20px;
     margin: 0;
     padding: 10px;
 }
 
 .links li {
-    display: inline; /* Ensures list items do not stack */
+    display: inline; 
 }
 
 .links a {
-    text-decoration: none; /* Removes the underline */
-    color: white; /* Matches the header text color */
+    text-decoration: none; 
+    color: white; 
     font-weight: bold;
 }
 
 .links a:hover {
-    color: #60A5FA; /* Changes the text color on hover */
+    color: #60A5FA; 
 }
 
 .content{
@@ -54,11 +54,11 @@
 
 .right img {
     width: 60%;
-    height: auto; width: 100%; /* Makes image responsive */
-    max-width: 500px; /* Set a fixed maximum width */
-    height: auto; /* Maintain aspect ratio */
+    height: auto; width: 100%; 
+    max-width: 500px; 
+    height: auto; 
     
-    border-radius: 15px; /* Rounded corners */
+    border-radius: 15px; 
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); 
 }
 .right {
